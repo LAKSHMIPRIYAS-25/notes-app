@@ -23,7 +23,7 @@ https://github.com/LAKSHMIPRIYAS-25/notes-app.git
 
 ## 📸 Screenshot
 
-![Notes App Screenshot](images/notes-app.png)
+![Notes App Screenshot](images/notes-app.jpeg)
 
 ---
 
@@ -74,7 +74,7 @@ Notes-App/
 │── script.js
 │── README.md
 └── images/
-    └── notes-app.png
+    └── notes-app.jpeg
 ```
 
 ---
