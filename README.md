@@ -117,3 +117,5 @@ The application includes:
 Lakshmi Priya S
 
 Aspiring Python Full Stack Developer passionate about building responsive and user-friendly web applications using HTML, CSS, Bootstrap, JavaScript, Python, Django, and MySQL.
+
+- GitHub: https://github.com/Lakshmipriyas-25
