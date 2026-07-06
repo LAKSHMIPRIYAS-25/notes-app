@@ -6,20 +6,19 @@ A responsive Notes App built using HTML, CSS, Bootstrap, and JavaScript. This ap
 
 ## 🚀 Live Demo
 
-🔗 Live Demo: https://your-live-demo-link.com
+🔗 Live Demo: https://lakshmipriyas-25.github.io/notes-app/
 
 ---
 
 ## 💻 Source Code
 
 ```bash
-git clone https://github.com/your-username/notes-app.git
+git clone https://github.com/LAKSHMIPRIYAS-25/notes-app.git
 ```
 
 Or visit the repository:
 
-https://github.com/your-username/notes-app
-
+https://github.com/LAKSHMIPRIYAS-25/notes-app.git
 ---
 
 ## 📸 Screenshot
